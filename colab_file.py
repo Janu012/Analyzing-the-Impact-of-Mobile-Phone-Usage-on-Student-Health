@@ -23,7 +23,8 @@ from sklearn.metrics import classification_report, accuracy_score, confusion_mat
 # Step 2: Load the dataset
 # Assuming you have a CSV file named 'student_health_data.csv'
 file_path = 'Impact_of_Mobile_Phone_on_Students_Health.csv'
-df = pd.read_csv('C:\Users\pathi\Documents\New folder')
+df = pd.read_csv('df = pd.read_csv('C:/Users/pathi/Documents/New folder/Impact_of_Mobile_Phone_on_Students_Health(1).csv')
+')
 
 df.head()
 
