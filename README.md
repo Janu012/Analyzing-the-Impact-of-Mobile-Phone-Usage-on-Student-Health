@@ -1,14 +1,8 @@
-# Imapact-of-mobile-phones-on-students-health
-This project aims to investigate the impact of mobile phone usage on the physical, mental, and social health of students. 
+# Project Overview
+This project investigates the impact of mobile phone usage on the physical and mental health of students. Given the ubiquity of mobile phones in daily life, especially among students, it is crucial to understand how their use affects well-being. This analysis explores various factors including the frequency of phone usage, the types of activities students engage in on their phones (social media, gaming, educational apps, etc.), and how these correlate with health issues such as sleep disturbances, anxiety, eye strain, and physical inactivity. 
 
-It explores various dimensions such as sleep patterns, concentration levels, and the effects of prolonged screen time. The study also evaluates the behavioral changes caused by mobile phone addiction and proposes strategies to mitigate its negative effects
-
-The widespread use of mobile phones among students offers educational benefits but also poses significant health risks, such as eye strain, mental stress, and sleep disturbances. 
-
-
-This study investigates the correlation between mobile phone usage and student health, focusing on sleep patterns, concentration, and behavioral issues like phone addiction.
-
-
-Data collected through surveys and interviews revealed that excessive screen time disrupts sleep cycles, impairs focus, and increases stress levels. 
-
-The findings emphasize the need for balanced mobile usage, proposing strategies such as usage limits, digital detoxes, and mindfulness practices to promote healthier habits among students.
+# Objectives
+** Assess the correlation between mobile phone usage and student health issues such as eye strain, headaches, sleep disorders, anxiety, and stress.
+** Identify the frequency and duration of mobile phone usage among students and the types of activities they engage in (academic vs. non-academic).
+** Examine the long-term effects of excessive mobile phone usage on physical and mental health.
+** Provide recommendations on healthy mobile phone usage habits for students.
