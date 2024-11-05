@@ -1,5 +1,4 @@
-# Analyzing the Impact of Mobile Phone Usage on Student Health: A Data Mining and Machine Learning 
-  Approach  
+# Analyzing the Impact of Mobile Phone Usage on Student Health: A Data Mining and Machine Learning Approach  
 ## Project Overview
 This project investigates the impact of mobile phone usage on the physical and mental health of students. Given the ubiquity of mobile phones in daily life, especially among students, it is crucial to understand how their use affects well-being. This analysis explores various factors including the frequency of phone usage, the types of activities students engage in on their phones (social media, gaming, educational apps, etc.), and how these correlate with health issues such as sleep disturbances, anxiety, eye strain, and physical inactivity. 
 
